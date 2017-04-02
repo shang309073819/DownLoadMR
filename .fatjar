@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Aug 27 09:08:05 CST 2014
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=/Users/chenshang/Documents/DownLoadMR.jar
+manifest.mergeall=true
+manifest.mainclass=com.rsclouds.hadoop.mr.Download
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
